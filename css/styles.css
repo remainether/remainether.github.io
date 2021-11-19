@@ -57,6 +57,16 @@ ul {
 	display:block;
 }
 
+#video {
+  position: absolute;
+  top: 40px;
+  font-size: 18px;
+  font-family: "Times New Roman", Times, serif;
+	width: 100%;
+	text-align: center;
+	z-index: 100;
+	display:block;
+}
 
 .center {
   display: flex;
