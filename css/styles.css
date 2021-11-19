@@ -1,5 +1,58 @@
-canvas {
+ul {
+  list-style-type: none;
+  text-align: center;
+  top: 120px;
+}
+#info {
+	position: absolute;
+	top: 520px;
+   font-family: "Times New Roman", Times, serif;
+
+  font-size: 18px;
+	width: 100%;
+	text-align: center;
+	z-index: 100;
+	display:block;
+   opacity: 0.5;
+}
+#navs {
+  position: absolute;
+  top: 570px;
+  font-size: 18px;
+  font-family: "Times New Roman", Times, serif;
+	width: 100%;
+	text-align: center;
+	z-index: 100;
+	display:block;
+}
+#about {
+  position: absolute;
+  top: 400px;
+  font-size: 18px;
+  font-family: "Times New Roman", Times, serif;
+	width: 100%;
+	text-align: center;
+	z-index: 100;
+	display:block;
+}
+#navsAbout {
+  position: absolute;
+  top: 10px;
+  font-size: 18px;
+  font-family: "Times New Roman", Times, serif;
+	width: 100%;
+	text-align: center;
+	z-index: 100;
+	display:block;
+}
+
+#social {
   position: fixed;
-  top : 0;
-  left: 0;
+   bottom: 0;
+  font-size: 18px;
+  font-family: "Times New Roman", Times, serif;
+	width: 100%;
+	text-align: center;
+	z-index: 100;
+	display:block;
 }
