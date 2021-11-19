@@ -68,6 +68,12 @@ ul {
 	display:block;
 }
 
+#logo {
+position: absolute;
+right: 0px;
+bottom: 0px;
+}
+
 .center {
   display: flex;
    justify-content: center;
