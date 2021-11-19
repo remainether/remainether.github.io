@@ -27,7 +27,7 @@ ul {
 }
 #about {
   position: absolute;
-  top: 400px;
+  top: 500px;
   font-size: 18px;
   font-family: "Times New Roman", Times, serif;
 	width: 100%;
@@ -37,7 +37,7 @@ ul {
 }
 #navsAbout {
   position: absolute;
-  top: 10px;
+  top: 600px;
   font-size: 18px;
   font-family: "Times New Roman", Times, serif;
 	width: 100%;
