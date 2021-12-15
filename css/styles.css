@@ -3,6 +3,13 @@ ul {
   text-align: center;
   top: 120px;
 }
+
+.center {
+  position:absolute;
+  left:80px;
+  top:20px;
+}
+
 #info {
 	position: absolute;
 	top: 520px;
@@ -27,7 +34,7 @@ ul {
 }
 #about {
   position: absolute;
-  top: 500px;
+  top: 400px;
   font-size: 18px;
   font-family: "Times New Roman", Times, serif;
 	width: 100%;
